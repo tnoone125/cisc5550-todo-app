@@ -7,4 +7,4 @@ The Docker image is:
 
 You may access the web application through its external IP:
 
-http://35.224.13.20
+http://35.224.13.20:80
